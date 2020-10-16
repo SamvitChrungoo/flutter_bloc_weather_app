@@ -29,3 +29,7 @@ A Weather App (boilerplate) using BLOC architecture.
 
 > Use short lowercase names at least for the top-level files and folders except
 > `LICENSE`, `README.md`
+
+
+![weather_demo](https://user-images.githubusercontent.com/32268113/96261288-e212bd00-0fdd-11eb-951c-cbae7937c568.gif)
+
